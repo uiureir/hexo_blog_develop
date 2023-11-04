@@ -1,0 +1,41 @@
+navbar:
+  blog_title: 卖柠檬雪糕的鱼的博客
+  ground_glass:
+    enable: true
+index:
+  banner_img: https://s1.imagehub.cc/images/2023/09/28/IMG_2537.jpeg
+  banner_img_height: 100
+  slogan:
+    text: 卖柠檬雪糕的鱼的博客
+post:
+  banner_img: https://s1.imagehub.cc/images/2023/09/28/IMG_2542.jpeg
+  banner_img_height: 85
+  default_index_img: https://hexo-blog-netlify.oss-cn-shenzhen.aliyuncs.com/A84CE283-6EDF-41A8-B75F-65F94D4C8DE9.jpeg
+archive:
+  banner_img: https://s1.imagehub.cc/images/2023/09/28/IMG_2544.jpeg
+  banner_img_height: 80
+  subtitle: null
+category:
+  banner_img: https://s1.imagehub.cc/images/2023/09/28/IMG_2538.jpeg
+  banner_img_height: 80
+  subtitle: null
+tag:
+  banner_img: https://s1.imagehub.cc/images/2023/09/28/IMG_2543.jpeg
+  banner_img_height: 80
+  subtitle: null
+about:
+  banner_img: https://s1.imagehub.cc/images/2023/09/28/IMG_2535.jpeg
+  banner_img_height: 80
+  subtitle: null
+  avatar: https://s1.imagehub.cc/images/2023/10/01/IMG_2539.jpeg
+  name: 卖柠檬雪糕的鱼
+  intro: 卖柠檬雪糕的鱼的个人博客
+links:
+  banner_img: /images/uploads/1616421416500-wallhaven-rddv31.jpg
+  banner_img_height: 80
+  subtitle: null
+  items:
+    - title: Fluid Repo
+      intro: 主题 GitHub 仓库
+      link: https://github.com/fluid-dev/hexo-theme-fluid
+      avatar: /img/favicon.png
