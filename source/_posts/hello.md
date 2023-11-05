@@ -1,12 +1,14 @@
 ---
 title: hello
+comments: true
+mermaid: true
+abbrlink: 3610a686
 date: 2023-11-04 14:15:05
 updated: 2023-11-04 14:15:05
-comments: true
 ---
 
 
->欢迎体验 [Fluid](https://github.com/fluid-dev/hexo-theme-fluid) ，这是一款 Material Design 风格的 Hexo 主题，以简约的设计帮助你专注于写作，本篇文章可预览主题的样式及功能。
+> 欢迎体验 [Fluid](https://github.com/fluid-dev/hexo-theme-fluid) ，这是一款 Material Design 风格的 Hexo 主题，以简约的设计帮助你专注于写作，本篇文章可预览主题的样式及功能。
 
 <!-- more -->
 
@@ -187,7 +189,6 @@ Class08 <--> C2: Cool label
   ![图3](https://fluid.s3.bitiful.net/hello-fluid/cover.png?w=480&fmt=webp)
   ![图4](https://fluid.s3.bitiful.net/hello-fluid/cover.png?w=480&fmt=webp)
   ![图5](https://fluid.s3.bitiful.net/hello-fluid/cover.png?w=480&fmt=webp)
-
 
 ### 脚注
 
